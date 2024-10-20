@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: aquamarine;
+    font-size: xx-large;
+    text-align: center;
+}
+body{
+    width: 150vh;
+margin-left: 200px;
+background-color: blueviolet;
+height: 1000px;
+}
+.s1{
+    position: fixed;
+    background-color: aliceblue;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 300px;
+}
+div{
+    text-align: justify;
+    width: 170vh;
+}
+h2,h3{
+    font-size: x-large;
+   margin: 5px;
+    margin-left: 50px;
+}
+h2{
+    margin-top: 10px;
+}
